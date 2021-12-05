@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <p>돼지파티는 행복하당</p>
   </div>
 </template>
 
